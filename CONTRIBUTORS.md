@@ -555,3 +555,7 @@
 - [@shabaaz27](https://github.com/shabaaz27)
 
 - [@M-AamirBakhtiar](https://github.com/M-AamirBakhtiar)
+
+- [@patraz](https://github.com/patraz)
+
+- [@l-white](https://github.com/l-white)
